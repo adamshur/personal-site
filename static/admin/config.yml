@@ -1,5 +1,6 @@
-backend: github
-  name: adamshur/personal-site
+backend:
+  name: github
+  repo: adamshur/personal-site
 
 media_folder: static/assets
 public_folder: /assets
