@@ -27,7 +27,7 @@
     "netlify-cms-app": "^2.11.27",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "sharp": "^0.25.1",
+    "sharp": "^0.30.5",
     "typescript": "^3.8.3"
   },
   "devDependencies": {
